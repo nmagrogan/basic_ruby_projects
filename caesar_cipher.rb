@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def cipher(string,shift)
   string = string.split(//)
